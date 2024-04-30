@@ -1,6 +1,7 @@
 # product-manager
-project Name: EcoCyclePlast
-project Description: EcoCyclePlast is a sustainable initiative aimed at revolutionizing the recycling industry by transforming plastic waste into profitable opportunities. Our project focuses on implementing innovative recycling processes to convert discarded plastics into high-value products, thereby reducing environmental pollution and generating economic returns.
+Project Name: EcoCyclePlast
+
+Project Description: EcoCyclePlast is a sustainable initiative aimed at revolutionizing the recycling industry by transforming plastic waste into profitable opportunities. Our project focuses on implementing innovative recycling processes to convert discarded plastics into high-value products, thereby reducing environmental pollution and generating economic returns.
 
 Through advanced recycling technologies and strategic partnerships, EcoCyclePlast aims to establish a closed-loop system where plastic waste is collected, processed, and repurposed into valuable materials. These materials can be used in various industries, such as packaging, construction, textiles, and more, offering sustainable alternatives to conventional materials.
 
